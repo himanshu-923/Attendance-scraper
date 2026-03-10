@@ -15,8 +15,8 @@ SUBJECT_SHEET = "subject_summary"
 DAILY_SHEET = "daily_summary"
 
 # Credentials from environment variables (set in GitHub Secrets)
-ERP_USER = os.environ.get("ERP_USERNAME", "")
-ERP_PASS = os.environ.get("ERP_PASSWORD", "")
+ERP_USER = os.environ.get("2501001049", "")
+ERP_PASS = os.environ.get("CGCJ@923", "")
 
 # === HELPER FUNCTIONS (same as yours) ===
 def daterange(start, end):
